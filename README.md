@@ -10,8 +10,7 @@ a. Broker
 <br>
 b. Customer
 
-<br>
-Built application during the construct week at [Masai School](https://masaischool.com/). Completed the project within four to five days.
+
 
 
 
