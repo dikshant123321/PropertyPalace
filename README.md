@@ -59,7 +59,7 @@ Deal Module<br>
 
 <h1>ER daigram</h1>
 
-<img src="https://github.com/dikshant123321/Er_digram/blob/main/ER_Digram.png?raw=true" alt="">
+<img src="https://github.com/dikshant123321/PropertyPalace/blob/main/incandescent-yarn-8212/images/RealEstate.png?raw=true" alt="">
 
 
 
