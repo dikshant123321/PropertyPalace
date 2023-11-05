@@ -40,11 +40,6 @@ Deal Module<br>
 <p>MySql</p>
 
 
-<h1>Contributer</h1>
-<p>Paramkusham Lokesh</p>
-<p>Prince Kumar</p>
-<p>Kashish Bansal</p>
-<p>Dikshant Deogade</p>
 
 
 <h1>Database Connection</h1>
